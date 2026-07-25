@@ -10,10 +10,17 @@ composer require gupta2612/mg-helpers
 
 ## Usage
 
+```bash
 use Mg\Helpers\StringHelper;
+```
 
+```bash
 echo StringHelper::upper("hello");
+```
+
+```bash
 // Output: HELLO
+```
 
 ## Requirements
 
