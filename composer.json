@@ -1,0 +1,20 @@
+{
+    "name": "mg/helpers",
+    "description": "A reusable PHP helper package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manish Gupta",
+            "email": "manishgupt2612@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mg\\Helpers\\": "src/"
+        }
+    }
+}
