@@ -1,8 +1,13 @@
 {
-    "name": "mg/helpers",
+    "name": "gupta2612/mg-helpers",
     "description": "A reusable PHP helper package.",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/gupta2612/mg-helpers",
+    "keywords": [
+        "php",
+        "helpers"
+    ],
     "authors": [
         {
             "name": "Manish Gupta",
